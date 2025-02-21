@@ -10,7 +10,7 @@ export default function Home() {
       className="min-h-screen flex items-center justify-center bg-gray-100"
     >
       <h1 className="text-4xl font-bold text-blue-600">
-        Welcome to My Portfolio!
+        Welcome to My Website!
       </h1>
     </motion.div>
   );
